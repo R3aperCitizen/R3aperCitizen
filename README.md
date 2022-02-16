@@ -1,23 +1,45 @@
-<h1 align="center">Hi, I'm Matteo Aka R3aper</h1>
+<h1 align="center">Hi, I'm Matteo Aka R3aper <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Kept you waiting huh?</h3>
 
-<h3 align="center">💻 Known languages:</h3> 
-<h5 align="center">C# | Lua | MySQL | HTML | JS | Java | Python</h5> 
 
 
+### 💻 Known Languages:
 
+<p align="center">
+  &emsp;
+  <a href="https://docs.microsoft.com/it-it/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-blueviolet.svg?style=plastic&logo=csharp&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.lua.org" target="_blank">
+    <img alt="Lua" src="https://img.shields.io/badge/-Lua-blue.svg?style=plastic&logo=lua&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.mysql.com" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ff69b4.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+</p>
 
-<h3 align="center">🔧 Languages and Tools:</h3>
-<a href="https://www.w3schools.com/cs/" target="_blank" align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" align="center"/> </a> 
-<a href="https://lua.org/" target="_blank" align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" align="center"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" align="center"/> </a>  
-<a href="https://www.mysql.com/" target="_blank" align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" align="center"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" align="center"/> </a>
+### 🎖️ Badges:
+<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="" width="70" height="70">
 
-<h3 align="center">🎖️ Badges:</h3>
-<img src="https://www.credly.com/badges/32deee3f-e410-452f-8137-b0dcbe2c4ec3/public_url" alt="" align="center">
-
-<h3 align="center">My discord:</h3>
+### 📲 My Discord:
 <p align="center">
     <a href="JustR3aper#6451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JustR3aper#6451" height="30" width="40" /></a>
 </p>
