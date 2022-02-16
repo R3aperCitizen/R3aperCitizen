@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Matteo Aka R3aper</h1>
 <h3 align="center">Kept you waiting huh?</h3>
 
+<center>
 <h3>💻 Known languages:</h3> 
 C# | Lua | MySQL | HTML | JS | Java | Python
 
@@ -21,3 +22,4 @@ C# | Lua | MySQL | HTML | JS | Java | Python
 <p align="left">
     <a href="JustR3aper#6451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JustR3aper#6451" height="30" width="40" /></a>
 </p>
+</center>
