@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Matteo Aka R3aper <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Matteo Aka R3aper <img height="40" src="https://emoji.gg/assets/emoji/5778-kuriboh.png"></h1>
 <h3 align="center">Kept you waiting huh?</h3>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=R3aperCitizen&label=Profile%20views&color=blueviolet&style=plastic" alt="R3aperCitizen" /> 
+	<img src="https://komarev.com/ghpvc/?username=R3aperCitizen&label=Profile%20views&color=blueviolet&style=plastic" alt="R3aperCitizen" /><br><br>
+	<img src="https://c.tenor.com/cOhgxKZrGqQAAAAC/zoro-one-piece.gif" alt="" />
 </p>
 
 ## 👾 About me:
