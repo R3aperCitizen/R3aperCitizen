@@ -3,7 +3,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=R3aperCitizen&label=Profile%20views&color=blueviolet&style=plastic" alt="R3aperCitizen" /><br><br>
-	<img src="https://c.tenor.com/cOhgxKZrGqQAAAAC/zoro-one-piece.gif" alt="" />
+	<img src="https://c.tenor.com/cOhgxKZrGqQAAAAC/zoro-one-piece.gif" height="220" width="360" alt="" />
 </p>
 
 ## 👾 About me:
