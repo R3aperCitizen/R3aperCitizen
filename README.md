@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matteo Aka R3aper</h1>
 <h3 align="center">Kept you waiting huh?</h3>
 
-- 💻 Known languages: **C# | Lua | MySQL | HTML | JS | Java | Python**
+<h3>💻 Known languages: **C# | Lua | MySQL | HTML | JS | Java | Python**</h3>
 
 <h3 align="left">My discord:</h3>
 <p align="left">
