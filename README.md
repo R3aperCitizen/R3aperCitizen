@@ -1,11 +1,19 @@
 <h1 align="center">Hi, I'm Matteo Aka R3aper <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Kept you waiting huh?</h3>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=R3aperCitizen&label=Profile%20views&color=blueviolet&style=plastic" alt="R3aperCitizen" /> 
+</p>
 
+### 👾 About me:
+- 📖 Studying Cybersecurity
+- 👨‍💼 Owner of <b>R3aperDevelopment</b>
+- 🎮 Gamer
+- 🎴 Yu-Gi-Oh Player
 
 ### 💻 Known Languages:
 
-<p align="center">
+<p>
   &emsp;
   <a href="https://docs.microsoft.com/it-it/dotnet/csharp/" target="_blank">
     <img alt="C#" src="https://img.shields.io/badge/-C%23-blueviolet.svg?style=plastic&logo=csharp&logoColor=white">
@@ -37,9 +45,9 @@
 </p>
 
 ### 🎖️ Badges:
-<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="" width="70" height="70">
+<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="" width="70" height="70" align="center">
 
 ### 📲 My Discord:
-<p align="center">
-    <a href="JustR3aper#6451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JustR3aper#6451" height="30" width="40" /></a>
+<p>
+    <a href="JustR3aper#6451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JustR3aper#6451" height="60" width="70" /></a>
 </p>
