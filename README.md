@@ -46,7 +46,9 @@
 </p>
 
 ## 🎖️ Badges:
-<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="" width="70" height="70" align="center">
+<a href="https://www.credly.com/badges/32deee3f-e410-452f-8137-b0dcbe2c4ec3/public_url" target="_blank"> 
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="" width="70" height="70" align="center">
+</a>
 
 ## 📲 My Discord:
 <p>
