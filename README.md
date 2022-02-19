@@ -49,6 +49,9 @@
 <a href="https://www.credly.com/badges/32deee3f-e410-452f-8137-b0dcbe2c4ec3/public_url" target="_blank"> 
     <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="" width="70" height="70" align="center">
 </a>
+<a href="https://www.credly.com/badges/0c1c4a37-398e-4004-a628-3a7b4f00928f/public_url" target="_blank"> 
+    <img src="https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" alt="" width="70" height="70" align="center">
+</a>
 
 ## 📲 My Discord:
 <p>
