@@ -7,7 +7,6 @@
 </p>
 
 ## 👾 About me:
-- 📖 Studying Cybersecurity
 - 👨‍💼 Owner of <b>R3aperDevelopment</b>
 - 🎮 Gamer
 - 🎴 Yu-Gi-Oh Player
