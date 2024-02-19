@@ -7,7 +7,7 @@
 </p>
 
 ## 👾 About me:
-- 🧑‍💻 Computer Science and Engineering student at <a href="https://unibo.it/it" target="_blank"><b>UniBo</b></a>
+- 🧑‍💻 Computer Science and Engineering student at <a href="https://www.unibo.it/it" target="_blank"><b>UniBo</b></a>
 - 👨‍💼 Owner of <b>R3aperDevelopment</b>
 - 🎮 Gamer
 - 🎴 Yu-Gi-Oh Player
