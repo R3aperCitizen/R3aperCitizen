@@ -3,7 +3,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=R3aperCitizen&label=Profile%20views&color=blueviolet&style=plastic" alt="R3aperCitizen" /><br><br>
-	<img src="https://c.tenor.com/cOhgxKZrGqQAAAAC/zoro-one-piece.gif" height="220" width="360" alt="" />
+	<img src="https://c.tenor.com/tc_T8z3f_BkAAAAC/tenor.gif" height="220" width="360" alt="" />
 </p>
 
 ## 👾 About me:
@@ -39,9 +39,6 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
 </p>
 
 ## 🎖️ Badges:
