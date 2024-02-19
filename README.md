@@ -20,7 +20,7 @@
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   </a>
   &emsp; 
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
   &emsp;
